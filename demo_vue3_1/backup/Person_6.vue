@@ -15,11 +15,6 @@
     </div>
 
 </template>
-<script lang="ts">
-    export default{
-        name:'Person'
-    }
-</script>
 <script lang="ts" setup>
     import {ref,watch} from 'vue'
     //watch
